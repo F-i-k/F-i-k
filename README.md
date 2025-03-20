@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Fik!  
 
-<!--
-**F-i-k/F-i-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical writer and open-source enthusiast currently contributing to the Fedora Project through Outreachy. I’m passionate about clear and accessible documentation, open-source collaboration, and continuous learning.  
 
-Here are some ideas to get you started:
+🔹 What I'm Working On 
+- 📝 Fedora Project documentation (Outreachy Contribution)  
+- 💻 Learning Git and Web Development  
+- 📚 Exploring technical writing and copywriting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Let's Connect!**
+- 🐦 Twitter:https://x.com/Leye_Fik
+- 📩 LinkedIn: https://www.linkedin.com/in/adebayo-oluwaleye-a87579355/
+- 🌍 Personal Blog: https://hashnode.com/@Fiks
+
+---
+
+🚀 **Excited to contribute and grow in open source!**
